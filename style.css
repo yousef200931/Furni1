@@ -1,0 +1,48 @@
+
+.bg-1{
+    background: #3b5d50;
+ 
+}
+.hh{
+    padding: calc(8rem - 30px) 0 8rem 0;
+}
+.hhh{
+    margin: 10px;
+    padding: 25px;
+}
+#p-light{
+    color: #757575;
+}
+#footer {
+    background-color: lightblue;
+    padding: 20px 0;
+    color: #000;
+  }
+  
+  .footer-top {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .footer-top .box {
+    display: flex;
+    width: 100%;
+  }
+  
+  .footer-top .row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: flex-start;
+  }
+  
+  .footer-top .col-1,
+  .footer-top .col-2,
+  .footer-top .col-3,
+  .footer-top .col-4 {
+    flex: 1;
+    margin: 0 10px;
+    min-width: 200px;
+  }
+  
